@@ -1,8 +1,3 @@
-# dateCommonJS
-date常用的js函数
-**不采用momentjs的庞大体系**
-摘自[js常规日期格式处理、月历渲染、倒计时函数](http://www.jianshu.com/p/5f07f26b0716)
-```javascript
 /**
  * [zeroPadding 小于10的数字补0，必填]
  * @param  {[Int]} value [description]
@@ -323,4 +318,3 @@ export function getOneDateWeekIndex(date) {
     let weekIndex = returnDate[0].weekIndex;
     return weekIndex ? weekIndex : 0;
 }
-```
