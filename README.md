@@ -1,5 +1,4 @@
-# dateCommonJS
-date常用的js函数
+# date常用的js函数 
 **不采用momentjs的庞大体系**   
 摘自[js常规日期格式处理、月历渲染、倒计时函数](http://www.jianshu.com/p/5f07f26b0716)
 ```javascript
